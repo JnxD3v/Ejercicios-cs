@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\bin\Debug\net8.0\Ejercicio_28-10-2024.exe
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\bin\Debug\net8.0\Ejercicio_28-10-2024.deps.json
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\bin\Debug\net8.0\Ejercicio_28-10-2024.runtimeconfig.json
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\bin\Debug\net8.0\Ejercicio_28-10-2024.dll
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\bin\Debug\net8.0\Ejercicio_28-10-2024.pdb
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\obj\Debug\net8.0\Ejercicio_28-10-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\obj\Debug\net8.0\Ejercicio_28-10-2024.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\obj\Debug\net8.0\Ejercicio_28-10-2024.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\obj\Debug\net8.0\Ejercicio_28-10-2024.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\obj\Debug\net8.0\Ejercicio_28-10-2024.dll
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\obj\Debug\net8.0\refint\Ejercicio_28-10-2024.dll
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\obj\Debug\net8.0\Ejercicio_28-10-2024.pdb
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\obj\Debug\net8.0\Ejercicio_28-10-2024.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Ejercicios de Bucles - Arrays\Ejercicio_28-10-2024\obj\Debug\net8.0\ref\Ejercicio_28-10-2024.dll

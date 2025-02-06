@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\bin\Debug\net8.0\Gamalier4.exe
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\bin\Debug\net8.0\Gamalier4.deps.json
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\bin\Debug\net8.0\Gamalier4.runtimeconfig.json
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\bin\Debug\net8.0\Gamalier4.dll
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\bin\Debug\net8.0\Gamalier4.pdb
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\obj\Debug\net8.0\Gamalier4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\obj\Debug\net8.0\Gamalier4.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\obj\Debug\net8.0\Gamalier4.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\obj\Debug\net8.0\Gamalier4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\obj\Debug\net8.0\Gamalier4.dll
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\obj\Debug\net8.0\refint\Gamalier4.dll
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\obj\Debug\net8.0\Gamalier4.pdb
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\obj\Debug\net8.0\Gamalier4.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Gamalier4\Gamalier4\obj\Debug\net8.0\ref\Gamalier4.dll

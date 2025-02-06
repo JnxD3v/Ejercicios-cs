@@ -1,0 +1,14 @@
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\bin\Debug\net8.0\Prueba Tecnica 01 - Michael.exe
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\bin\Debug\net8.0\Prueba Tecnica 01 - Michael.deps.json
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\bin\Debug\net8.0\Prueba Tecnica 01 - Michael.runtimeconfig.json
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\bin\Debug\net8.0\Prueba Tecnica 01 - Michael.dll
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\bin\Debug\net8.0\Prueba Tecnica 01 - Michael.pdb
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\obj\Debug\net8.0\Prueba Tecnica 01 - Michael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\obj\Debug\net8.0\Prueba Tecnica 01 - Michael.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\obj\Debug\net8.0\Prueba Tecnica 01 - Michael.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\obj\Debug\net8.0\Prueba Tecnica 01 - Michael.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\obj\Debug\net8.0\Prueba Tecnica 01 - Michael.dll
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\obj\Debug\net8.0\refint\Prueba Tecnica 01 - Michael.dll
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\obj\Debug\net8.0\Prueba Tecnica 01 - Michael.pdb
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\obj\Debug\net8.0\Prueba Tecnica 01 - Michael.genruntimeconfig.cache
+C:\Users\Micha\source\repos\Prueba Tecnica 01 - Michael\Prueba Tecnica 01 - Michael\obj\Debug\net8.0\ref\Prueba Tecnica 01 - Michael.dll

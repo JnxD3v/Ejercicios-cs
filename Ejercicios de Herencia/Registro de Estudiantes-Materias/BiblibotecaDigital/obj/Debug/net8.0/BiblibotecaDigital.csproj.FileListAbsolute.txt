@@ -1,0 +1,28 @@
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.exe
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.deps.json
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.runtimeconfig.json
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.dll
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.pdb
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.AssemblyInfo.cs
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.dll
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\refint\BiblibotecaDigital.dll
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.pdb
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.genruntimeconfig.cache
+C:\Users\Micha\source\repos\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\ref\BiblibotecaDigital.dll
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.exe
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.deps.json
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.runtimeconfig.json
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.dll
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\bin\Debug\net8.0\BiblibotecaDigital.pdb
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.dll
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\refint\BiblibotecaDigital.dll
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.pdb
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\BiblibotecaDigital.genruntimeconfig.cache
+C:\Users\Micha\source\repos\Ejercicios de Herencia\BiblibotecaDigital\BiblibotecaDigital\obj\Debug\net8.0\ref\BiblibotecaDigital.dll
