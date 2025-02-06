@@ -1,0 +1,14 @@
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\bin\Debug\net8.0\EjerFranV2.exe
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\bin\Debug\net8.0\EjerFranV2.deps.json
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\bin\Debug\net8.0\EjerFranV2.runtimeconfig.json
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\bin\Debug\net8.0\EjerFranV2.dll
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\bin\Debug\net8.0\EjerFranV2.pdb
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\obj\Debug\net8.0\EjerFranV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\obj\Debug\net8.0\EjerFranV2.AssemblyInfoInputs.cache
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\obj\Debug\net8.0\EjerFranV2.AssemblyInfo.cs
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\obj\Debug\net8.0\EjerFranV2.csproj.CoreCompileInputs.cache
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\obj\Debug\net8.0\EjerFranV2.dll
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\obj\Debug\net8.0\refint\EjerFranV2.dll
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\obj\Debug\net8.0\EjerFranV2.pdb
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\obj\Debug\net8.0\EjerFranV2.genruntimeconfig.cache
+C:\Users\Michi\source\repos\EjerFranV2\EjerFranV2\obj\Debug\net8.0\ref\EjerFranV2.dll

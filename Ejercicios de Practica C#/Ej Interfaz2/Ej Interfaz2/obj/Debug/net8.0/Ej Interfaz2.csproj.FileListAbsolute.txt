@@ -1,0 +1,14 @@
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\bin\Debug\net8.0\Ej Interfaz2.exe
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\bin\Debug\net8.0\Ej Interfaz2.deps.json
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\bin\Debug\net8.0\Ej Interfaz2.runtimeconfig.json
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\bin\Debug\net8.0\Ej Interfaz2.dll
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\bin\Debug\net8.0\Ej Interfaz2.pdb
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\obj\Debug\net8.0\Ej Interfaz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\obj\Debug\net8.0\Ej Interfaz2.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\obj\Debug\net8.0\Ej Interfaz2.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\obj\Debug\net8.0\Ej Interfaz2.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\obj\Debug\net8.0\Ej Interfaz2.dll
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\obj\Debug\net8.0\refint\Ej Interfaz2.dll
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\obj\Debug\net8.0\Ej Interfaz2.pdb
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\obj\Debug\net8.0\Ej Interfaz2.genruntimeconfig.cache
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz2\Ej Interfaz2\obj\Debug\net8.0\ref\Ej Interfaz2.dll

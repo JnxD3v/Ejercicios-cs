@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michi\\source\\repos\\Azar1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE54B8FB-C635-4936-9DFF-90E7688CB2B1}|Azar1\\Azar1.csproj|c:\\users\\michi\\source\\repos\\azar1\\azar1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE54B8FB-C635-4936-9DFF-90E7688CB2B1}|Azar1\\Azar1.csproj|solutionrelative:azar1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Michi\\source\\repos\\Azar1\\Azar1\\Program.cs",
+              "RelativeDocumentMoniker": "Azar1\\Program.cs",
+              "ToolTip": "C:\\Users\\Michi\\source\\repos\\Azar1\\Azar1\\Program.cs",
+              "RelativeToolTip": "Azar1\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:54:55.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

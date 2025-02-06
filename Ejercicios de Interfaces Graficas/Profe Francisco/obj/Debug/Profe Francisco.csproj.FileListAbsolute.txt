@@ -1,0 +1,10 @@
+C:\Users\Micha\source\repos\Profe Francisco\bin\Debug\Profe Francisco.exe.config
+C:\Users\Micha\source\repos\Profe Francisco\bin\Debug\Profe Francisco.exe
+C:\Users\Micha\source\repos\Profe Francisco\bin\Debug\Profe Francisco.pdb
+C:\Users\Micha\source\repos\Profe Francisco\obj\Debug\Profe Francisco.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\Profe Francisco\obj\Debug\Profe_Francisco.Properties.Resources.resources
+C:\Users\Micha\source\repos\Profe Francisco\obj\Debug\Profe Francisco.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\Profe Francisco\obj\Debug\Profe Francisco.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Profe Francisco\obj\Debug\Profe Francisco.exe
+C:\Users\Micha\source\repos\Profe Francisco\obj\Debug\Profe Francisco.pdb
+C:\Users\Micha\source\repos\Profe Francisco\obj\Debug\Profe_Francisco.Formulario.resources

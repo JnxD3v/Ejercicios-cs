@@ -1,0 +1,10 @@
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\bin\Debug\Profe Saimon.exe.config
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\bin\Debug\Profe Saimon.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\bin\Debug\Profe Saimon.pdb
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\obj\Debug\Profe Saimon.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\obj\Debug\Profe_Saimon.Properties.Resources.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\obj\Debug\Profe Saimon.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\obj\Debug\Profe Saimon.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\obj\Debug\Profe Saimon.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\obj\Debug\Profe Saimon.pdb
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Saimon\obj\Debug\Profe_Saimon.ProfeSaimon.resources

@@ -1,0 +1,14 @@
+C:\Users\Michi\source\repos\EjerFran\EjerFran\bin\Debug\net8.0\EjerFran.exe
+C:\Users\Michi\source\repos\EjerFran\EjerFran\bin\Debug\net8.0\EjerFran.deps.json
+C:\Users\Michi\source\repos\EjerFran\EjerFran\bin\Debug\net8.0\EjerFran.runtimeconfig.json
+C:\Users\Michi\source\repos\EjerFran\EjerFran\bin\Debug\net8.0\EjerFran.dll
+C:\Users\Michi\source\repos\EjerFran\EjerFran\bin\Debug\net8.0\EjerFran.pdb
+C:\Users\Michi\source\repos\EjerFran\EjerFran\obj\Debug\net8.0\EjerFran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michi\source\repos\EjerFran\EjerFran\obj\Debug\net8.0\EjerFran.AssemblyInfoInputs.cache
+C:\Users\Michi\source\repos\EjerFran\EjerFran\obj\Debug\net8.0\EjerFran.AssemblyInfo.cs
+C:\Users\Michi\source\repos\EjerFran\EjerFran\obj\Debug\net8.0\EjerFran.csproj.CoreCompileInputs.cache
+C:\Users\Michi\source\repos\EjerFran\EjerFran\obj\Debug\net8.0\EjerFran.dll
+C:\Users\Michi\source\repos\EjerFran\EjerFran\obj\Debug\net8.0\refint\EjerFran.dll
+C:\Users\Michi\source\repos\EjerFran\EjerFran\obj\Debug\net8.0\EjerFran.pdb
+C:\Users\Michi\source\repos\EjerFran\EjerFran\obj\Debug\net8.0\EjerFran.genruntimeconfig.cache
+C:\Users\Michi\source\repos\EjerFran\EjerFran\obj\Debug\net8.0\ref\EjerFran.dll

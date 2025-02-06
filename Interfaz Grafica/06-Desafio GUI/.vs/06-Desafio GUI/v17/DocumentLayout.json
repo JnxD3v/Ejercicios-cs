@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_mproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:frm_mproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|c:\\users\\pc\\desktop\\mis proyectos\\interfaz grafica\\06-desafio gui\\frm_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:frm_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|c:\\users\\pc\\desktop\\mis proyectos\\interfaz grafica\\06-desafio gui\\frm_mproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:frm_mproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|c:\\users\\pc\\desktop\\mis proyectos\\interfaz grafica\\06-desafio gui\\frm_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:frm_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|c:\\users\\pc\\desktop\\mis proyectos\\interfaz grafica\\06-desafio gui\\frm_proveedores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:frm_proveedores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|c:\\users\\pc\\desktop\\mis proyectos\\interfaz grafica\\06-desafio gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|c:\\users\\pc\\desktop\\mis proyectos\\interfaz grafica\\06-desafio gui\\frm_mproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:frm_mproducto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_rproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:frm_rproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|c:\\users\\pc\\desktop\\mis proyectos\\interfaz grafica\\06-desafio gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}|06-Desafio GUI.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:04:56.672Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_proveedores.cs",
+              "RelativeDocumentMoniker": "frm_proveedores.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_proveedores.cs",
+              "RelativeToolTip": "frm_proveedores.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:15:07.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_mProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_mProducto.cs",
+              "RelativeDocumentMoniker": "frm_mProducto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_mProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frm_mProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:01:53.072Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_proveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_proveedores.cs",
+              "RelativeDocumentMoniker": "frm_proveedores.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_proveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frm_proveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:15:01.091Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_mProducto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_mProducto.cs",
+              "RelativeDocumentMoniker": "frm_mProducto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_mProducto.cs",
+              "RelativeToolTip": "frm_mProducto.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwG8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:13:36.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_proveedores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_proveedores.Designer.cs",
+              "RelativeDocumentMoniker": "frm_proveedores.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_proveedores.Designer.cs",
+              "RelativeToolTip": "frm_proveedores.Designer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAowGIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:22:03.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_mProducto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_mProducto.Designer.cs",
+              "RelativeDocumentMoniker": "frm_mProducto.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_mProducto.Designer.cs",
+              "RelativeToolTip": "frm_mProducto.Designer.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAowAUBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:01:30.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\06-Desafio GUI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\06-Desafio GUI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:51:28.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_Rproductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\frm_Rproductos.cs",
+              "RelativeDocumentMoniker": "frm_Rproductos.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\06-Desafio GUI\\frm_Rproductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\06-Desafio GUI\\frm_Rproductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:06:39.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Mis Proyectos\\Interfaz Grafica\\06-Desafio GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:12:13.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\bin\Debug\Profe Badelin.exe.config
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\bin\Debug\Profe Badelin.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\bin\Debug\Profe Badelin.pdb
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\obj\Debug\Profe Badelin.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\obj\Debug\Profe_Badelin.ProfeBadelin.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\obj\Debug\Profe_Badelin.Properties.Resources.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\obj\Debug\Profe Badelin.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\obj\Debug\Profe Badelin.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\obj\Debug\Profe Badelin.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Badelin\obj\Debug\Profe Badelin.pdb
