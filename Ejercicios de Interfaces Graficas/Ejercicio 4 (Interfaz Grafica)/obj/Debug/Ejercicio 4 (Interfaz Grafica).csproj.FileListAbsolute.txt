@@ -1,0 +1,10 @@
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\bin\Debug\Ejercicio 4 (Interfaz Grafica).exe.config
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\bin\Debug\Ejercicio 4 (Interfaz Grafica).exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\bin\Debug\Ejercicio 4 (Interfaz Grafica).pdb
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\obj\Debug\Ejercicio 4 (Interfaz Grafica).csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\obj\Debug\Ejercicio_4__Interfaz_Grafica_.RegistroDeCalificaciones.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\obj\Debug\Ejercicio_4__Interfaz_Grafica_.Properties.Resources.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\obj\Debug\Ejercicio 4 (Interfaz Grafica).csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\obj\Debug\Ejercicio 4 (Interfaz Grafica).csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\obj\Debug\Ejercicio 4 (Interfaz Grafica).exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Ejercicio 4 (Interfaz Grafica)\obj\Debug\Ejercicio 4 (Interfaz Grafica).pdb

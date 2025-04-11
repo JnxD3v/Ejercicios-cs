@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Pe\Pe\obj\Debug\net8.0\Pe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Pe\Pe\obj\Debug\net8.0\Pe.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Pe\Pe\obj\Debug\net8.0\Pe.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Pe\Pe\obj\Debug\net8.0\Pe.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Pe\Pe\bin\Debug\net8.0\Pe.exe
+C:\Users\Dell\source\repos\Pe\Pe\bin\Debug\net8.0\Pe.deps.json
+C:\Users\Dell\source\repos\Pe\Pe\bin\Debug\net8.0\Pe.runtimeconfig.json
+C:\Users\Dell\source\repos\Pe\Pe\bin\Debug\net8.0\Pe.dll
+C:\Users\Dell\source\repos\Pe\Pe\bin\Debug\net8.0\Pe.pdb
+C:\Users\Dell\source\repos\Pe\Pe\obj\Debug\net8.0\Pe.dll
+C:\Users\Dell\source\repos\Pe\Pe\obj\Debug\net8.0\refint\Pe.dll
+C:\Users\Dell\source\repos\Pe\Pe\obj\Debug\net8.0\Pe.pdb
+C:\Users\Dell\source\repos\Pe\Pe\obj\Debug\net8.0\Pe.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Pe\Pe\obj\Debug\net8.0\ref\Pe.dll

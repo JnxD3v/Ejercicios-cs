@@ -1,0 +1,10 @@
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\bin\Debug\Prueba Ardiente xd.exe.config
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\bin\Debug\Prueba Ardiente xd.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\bin\Debug\Prueba Ardiente xd.pdb
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\obj\Debug\Prueba Ardiente xd.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\obj\Debug\Prueba_Ardiente_xd.Formulario.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\obj\Debug\Prueba_Ardiente_xd.Properties.Resources.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\obj\Debug\Prueba Ardiente xd.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\obj\Debug\Prueba Ardiente xd.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\obj\Debug\Prueba Ardiente xd.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Prueba Ardiente xd\obj\Debug\Prueba Ardiente xd.pdb

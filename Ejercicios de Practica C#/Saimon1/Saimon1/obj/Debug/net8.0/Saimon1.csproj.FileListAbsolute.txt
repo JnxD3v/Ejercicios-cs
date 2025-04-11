@@ -1,0 +1,14 @@
+C:\Users\Michi\source\repos\Saimon1\Saimon1\bin\Debug\net8.0\Saimon1.exe
+C:\Users\Michi\source\repos\Saimon1\Saimon1\bin\Debug\net8.0\Saimon1.deps.json
+C:\Users\Michi\source\repos\Saimon1\Saimon1\bin\Debug\net8.0\Saimon1.runtimeconfig.json
+C:\Users\Michi\source\repos\Saimon1\Saimon1\bin\Debug\net8.0\Saimon1.dll
+C:\Users\Michi\source\repos\Saimon1\Saimon1\bin\Debug\net8.0\Saimon1.pdb
+C:\Users\Michi\source\repos\Saimon1\Saimon1\obj\Debug\net8.0\Saimon1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michi\source\repos\Saimon1\Saimon1\obj\Debug\net8.0\Saimon1.AssemblyInfoInputs.cache
+C:\Users\Michi\source\repos\Saimon1\Saimon1\obj\Debug\net8.0\Saimon1.AssemblyInfo.cs
+C:\Users\Michi\source\repos\Saimon1\Saimon1\obj\Debug\net8.0\Saimon1.csproj.CoreCompileInputs.cache
+C:\Users\Michi\source\repos\Saimon1\Saimon1\obj\Debug\net8.0\Saimon1.dll
+C:\Users\Michi\source\repos\Saimon1\Saimon1\obj\Debug\net8.0\refint\Saimon1.dll
+C:\Users\Michi\source\repos\Saimon1\Saimon1\obj\Debug\net8.0\Saimon1.pdb
+C:\Users\Michi\source\repos\Saimon1\Saimon1\obj\Debug\net8.0\Saimon1.genruntimeconfig.cache
+C:\Users\Michi\source\repos\Saimon1\Saimon1\obj\Debug\net8.0\ref\Saimon1.dll

@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\bin\Debug\net8.0\Gamalier2.exe
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\bin\Debug\net8.0\Gamalier2.deps.json
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\bin\Debug\net8.0\Gamalier2.runtimeconfig.json
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\bin\Debug\net8.0\Gamalier2.dll
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\bin\Debug\net8.0\Gamalier2.pdb
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\obj\Debug\net8.0\Gamalier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\obj\Debug\net8.0\Gamalier2.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\obj\Debug\net8.0\Gamalier2.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\obj\Debug\net8.0\Gamalier2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\obj\Debug\net8.0\Gamalier2.dll
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\obj\Debug\net8.0\refint\Gamalier2.dll
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\obj\Debug\net8.0\Gamalier2.pdb
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\obj\Debug\net8.0\Gamalier2.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Gamalier2\Gamalier2\obj\Debug\net8.0\ref\Gamalier2.dll

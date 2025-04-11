@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamalier1", "Gamalier1\Gamalier1.csproj", "{28320EB0-D4DF-4896-BCB1-A234524612EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28320EB0-D4DF-4896-BCB1-A234524612EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28320EB0-D4DF-4896-BCB1-A234524612EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28320EB0-D4DF-4896-BCB1-A234524612EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28320EB0-D4DF-4896-BCB1-A234524612EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B41B549-2890-49CB-BBED-9A000E6A1AD1}
+	EndGlobalSection
+EndGlobal

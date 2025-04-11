@@ -1,0 +1,14 @@
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\bin\Debug\net8.0\Ej Interfaz3.exe
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\bin\Debug\net8.0\Ej Interfaz3.deps.json
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\bin\Debug\net8.0\Ej Interfaz3.runtimeconfig.json
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\bin\Debug\net8.0\Ej Interfaz3.dll
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\bin\Debug\net8.0\Ej Interfaz3.pdb
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\obj\Debug\net8.0\Ej Interfaz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\obj\Debug\net8.0\Ej Interfaz3.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\obj\Debug\net8.0\Ej Interfaz3.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\obj\Debug\net8.0\Ej Interfaz3.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\obj\Debug\net8.0\Ej Interfaz3.dll
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\obj\Debug\net8.0\refint\Ej Interfaz3.dll
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\obj\Debug\net8.0\Ej Interfaz3.pdb
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\obj\Debug\net8.0\Ej Interfaz3.genruntimeconfig.cache
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Ej Interfaz3\Ej Interfaz3\obj\Debug\net8.0\ref\Ej Interfaz3.dll

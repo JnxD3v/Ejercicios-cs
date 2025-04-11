@@ -1,0 +1,20 @@
+C:\Users\Micha\Downloads\Profe Jose\bin\Debug\Profe Jose.exe.config
+C:\Users\Micha\Downloads\Profe Jose\bin\Debug\Profe Jose.exe
+C:\Users\Micha\Downloads\Profe Jose\bin\Debug\Profe Jose.pdb
+C:\Users\Micha\Downloads\Profe Jose\obj\Debug\Profe Jose.csproj.AssemblyReference.cache
+C:\Users\Micha\Downloads\Profe Jose\obj\Debug\Profe_Jose.Properties.Resources.resources
+C:\Users\Micha\Downloads\Profe Jose\obj\Debug\Profe Jose.csproj.GenerateResource.cache
+C:\Users\Micha\Downloads\Profe Jose\obj\Debug\Profe Jose.csproj.CoreCompileInputs.cache
+C:\Users\Micha\Downloads\Profe Jose\obj\Debug\Profe Jose.exe
+C:\Users\Micha\Downloads\Profe Jose\obj\Debug\Profe Jose.pdb
+C:\Users\Micha\Downloads\Profe Jose\obj\Debug\Profe_Jose.Inscripciones.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\bin\Debug\Profe Jose.exe.config
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\bin\Debug\Profe Jose.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\bin\Debug\Profe Jose.pdb
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\obj\Debug\Profe Jose.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\obj\Debug\Profe_Jose.Inscripciones.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\obj\Debug\Profe_Jose.Properties.Resources.resources
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\obj\Debug\Profe Jose.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\obj\Debug\Profe Jose.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\obj\Debug\Profe Jose.exe
+C:\Users\Micha\source\repos\Ejercicios de Interfaces Graficas\Profe Jose (Proyecto Fallido )\obj\Debug\Profe Jose.pdb

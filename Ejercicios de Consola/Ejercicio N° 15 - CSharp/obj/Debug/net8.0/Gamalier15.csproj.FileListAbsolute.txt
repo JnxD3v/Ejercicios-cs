@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Gamalier15\bin\Debug\net8.0\Gamalier15.exe
+C:\Users\Dell\source\repos\Gamalier15\bin\Debug\net8.0\Gamalier15.deps.json
+C:\Users\Dell\source\repos\Gamalier15\bin\Debug\net8.0\Gamalier15.runtimeconfig.json
+C:\Users\Dell\source\repos\Gamalier15\bin\Debug\net8.0\Gamalier15.dll
+C:\Users\Dell\source\repos\Gamalier15\bin\Debug\net8.0\Gamalier15.pdb
+C:\Users\Dell\source\repos\Gamalier15\obj\Debug\net8.0\Gamalier15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Gamalier15\obj\Debug\net8.0\Gamalier15.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Gamalier15\obj\Debug\net8.0\Gamalier15.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Gamalier15\obj\Debug\net8.0\Gamalier15.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Gamalier15\obj\Debug\net8.0\Gamalier15.dll
+C:\Users\Dell\source\repos\Gamalier15\obj\Debug\net8.0\refint\Gamalier15.dll
+C:\Users\Dell\source\repos\Gamalier15\obj\Debug\net8.0\Gamalier15.pdb
+C:\Users\Dell\source\repos\Gamalier15\obj\Debug\net8.0\Gamalier15.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Gamalier15\obj\Debug\net8.0\ref\Gamalier15.dll
