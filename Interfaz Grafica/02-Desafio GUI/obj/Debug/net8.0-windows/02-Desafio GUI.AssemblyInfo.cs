@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02-Desafio GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a94cc7ad407022be011960102c81319ca7b0ade")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da650d29727bf0491938753315c276fc793ae232")]
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
 [assembly: System.Reflection.AssemblyProductAttribute("02-Desafio GUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02-Desafio GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

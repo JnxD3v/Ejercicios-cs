@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\03-Desafio GUI\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A121DAA2-E2FC-4A6D-AE27-E32300FAADB5}|02-GUI.csproj|c:\\users\\jesus y alexandra\\desktop\\mis proyectos\\c-sharp\\interfaz grafica\\03-desafio gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+  "WorkspaceRootPath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\02-GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A121DAA2-E2FC-4A6D-AE27-E32300FAADB5}|02-GUI.csproj|c:\\users\\junior\\desktop\\c#\\ejerciciosgamalier\\interfaz grafica\\02-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
       "RelativeMoniker": "D:0:0:{A121DAA2-E2FC-4A6D-AE27-E32300FAADB5}|02-GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,7 +21,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +33,20 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+=======
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\03-Desafio GUI\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -39,6 +55,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T22:36:37.923Z",
               "EditorCaption": " [Design]"
+=======
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\02-GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\02-GUI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:36:37.923Z",
+              "EditorCaption": " [Dise\u00F1o]"
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
             }
           ]
         }

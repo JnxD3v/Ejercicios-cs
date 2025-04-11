@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "VHBoNbyr69o=",
   "success": true,
   "projectFilePath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\Gestion de Reservas\\Gestion de Reservas.csproj",
+=======
+  "dgSpecHash": "LQWLw3oR+JY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JUNIOR\\source\\repos\\Gestion de Reservas\\Gestion de Reservas.csproj",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
   "expectedPackageFiles": [],
   "logs": []
 }

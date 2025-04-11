@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "mN77r5V6a5w=",
   "success": true,
   "projectFilePath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\03-Desafio GUI\\02-GUI.csproj",
+=======
+  "dgSpecHash": "Za3vyHTbwHU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\02-GUI\\02-GUI.csproj",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
   "expectedPackageFiles": [],
   "logs": []
 }

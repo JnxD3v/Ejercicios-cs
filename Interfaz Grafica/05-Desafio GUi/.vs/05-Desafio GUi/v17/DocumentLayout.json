@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\05-Desafio GUi\\",
   "Documents": [
     {
@@ -8,6 +9,16 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FD356EC-9615-45A5-839F-98FDC3D3676B}|05-Desafio GUi.csproj|c:\\users\\jesus y alexandra\\desktop\\mis proyectos\\c-sharp\\interfaz grafica\\05-desafio gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\05-Desafio GUi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD356EC-9615-45A5-839F-98FDC3D3676B}|05-Desafio GUi.csproj|C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\05-Desafio GUi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FD356EC-9615-45A5-839F-98FDC3D3676B}|05-Desafio GUi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD356EC-9615-45A5-839F-98FDC3D3676B}|05-Desafio GUi.csproj|c:\\users\\junior\\desktop\\c#\\ejerciciosgamalier\\interfaz grafica\\05-desafio gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
       "RelativeMoniker": "D:0:0:{8FD356EC-9615-45A5-839F-98FDC3D3676B}|05-Desafio GUi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,19 +41,29 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+=======
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\05-Desafio GUi\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\05-Desafio GUi\\Form1.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\05-Desafio GUi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\05-Desafio GUi\\Form1.cs",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAmwDcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,13 +74,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\05-Desafio GUi\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\05-Desafio GUi\\Form1.cs [Dise\u00F1o]",
+=======
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\05-Desafio GUi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\05-Desafio GUi\\Form1.cs [Dise\u00F1o]",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T14:18:52.95Z",
               "EditorCaption": " [Dise\u00F1o]"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
             }
           ]
         }

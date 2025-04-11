@@ -14,9 +14,15 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _02_GUI
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\03-Desafio GUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
+=======
+build_property.ProjectDir = C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Interfaz Grafica\02-GUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c

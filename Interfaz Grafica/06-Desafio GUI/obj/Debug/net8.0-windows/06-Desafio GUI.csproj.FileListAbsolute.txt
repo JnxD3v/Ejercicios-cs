@@ -43,6 +43,7 @@ C:\Users\PC\Desktop\Mis Proyectos\Interfaz Grafica\06-Desafio GUI\obj\Debug\net8
 C:\Users\PC\Desktop\Mis Proyectos\Interfaz Grafica\06-Desafio GUI\obj\Debug\net8.0-windows\06-Desafio GUI.pdb
 C:\Users\PC\Desktop\Mis Proyectos\Interfaz Grafica\06-Desafio GUI\obj\Debug\net8.0-windows\06-Desafio GUI.genruntimeconfig.cache
 C:\Users\PC\Desktop\Mis Proyectos\Interfaz Grafica\06-Desafio GUI\obj\Debug\net8.0-windows\ref\06-Desafio GUI.dll
+<<<<<<< HEAD
 C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\06-Desafio GUI\bin\Debug\net8.0-windows\06-Desafio GUI.exe
 C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\06-Desafio GUI\bin\Debug\net8.0-windows\06-Desafio GUI.deps.json
 C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\06-Desafio GUI\bin\Debug\net8.0-windows\06-Desafio GUI.runtimeconfig.json
@@ -66,3 +67,5 @@ C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\06-Des
 C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\06-Desafio GUI\obj\Debug\net8.0-windows\06-Desafio GUI.pdb
 C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\06-Desafio GUI\obj\Debug\net8.0-windows\06-Desafio GUI.genruntimeconfig.cache
 C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\06-Desafio GUI\obj\Debug\net8.0-windows\ref\06-Desafio GUI.dll
+=======
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c

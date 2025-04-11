@@ -14,7 +14,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _04_Desafio_GUi
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\04-Desafio GUi\
+=======
+build_property.ProjectDir = C:\Users\PC\Desktop\Mis Proyectos\Interfaz Grafica\04-Desafio GUi\
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
