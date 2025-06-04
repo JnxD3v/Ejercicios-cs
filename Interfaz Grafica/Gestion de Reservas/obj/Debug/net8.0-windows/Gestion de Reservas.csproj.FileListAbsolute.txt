@@ -1,0 +1,38 @@
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.exe
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.deps.json
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.runtimeconfig.json
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.dll
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.pdb
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion_de_Reservas.Form1.resources
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion_de_Reservas.Properties.Resources.resources
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.csproj.GenerateResource.cache
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.AssemblyInfo.cs
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.dll
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\refint\Gestion de Reservas.dll
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.pdb
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.genruntimeconfig.cache
+C:\Users\JUNIOR\source\repos\Gestion de Reservas\obj\Debug\net8.0-windows\ref\Gestion de Reservas.dll
+<<<<<<< HEAD
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.exe
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.deps.json
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.runtimeconfig.json
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\bin\Debug\net8.0-windows\Gestion de Reservas.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion_de_Reservas.Form1.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion_de_Reservas.Properties.Resources.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.csproj.GenerateResource.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.AssemblyInfoInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.AssemblyInfo.cs
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.csproj.CoreCompileInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.sourcelink.json
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\refint\Gestion de Reservas.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\Gestion de Reservas.genruntimeconfig.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Interfaz Grafica\Gestion de Reservas\obj\Debug\net8.0-windows\ref\Gestion de Reservas.dll
+=======
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c

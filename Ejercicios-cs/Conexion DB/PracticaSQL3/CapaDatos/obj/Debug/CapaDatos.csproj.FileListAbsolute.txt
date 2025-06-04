@@ -1,0 +1,27 @@
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jesus y Alexandra\Desktop\PracticaSQL3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jesus y Alexandra\Desktop\PracticaSQL3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jesus y Alexandra\Desktop\PracticaSQL3\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jesus y Alexandra\Desktop\PracticaSQL3\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jesus y Alexandra\Desktop\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jesus y Alexandra\Desktop\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Jesus y Alexandra\Desktop\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jesus y Alexandra\Desktop\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Ejercicios escuela\PracticaSQL3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Ejercicios escuela\PracticaSQL3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Ejercicios escuela\PracticaSQL3\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Ejercicios escuela\PracticaSQL3\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Ejercicios escuela\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Ejercicios escuela\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Ejercicios escuela\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Ejercicios escuela\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Ejercicios escuela\PracticaSQL3\CapaDatos\obj\Debug\CapaDatos.pdb

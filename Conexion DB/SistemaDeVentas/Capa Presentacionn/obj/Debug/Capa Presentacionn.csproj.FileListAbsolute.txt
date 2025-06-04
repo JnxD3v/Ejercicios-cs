@@ -1,0 +1,314 @@
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Presentacionn.exe.config
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Presentacionn.exe
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Presentacionn.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.csproj.AssemblyReference.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.Properties.Resources.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.csproj.GenerateResource.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.csproj.CoreCompileInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.exe
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\EnvDTE.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\stdole.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.Form1.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Pre.EE6791EA.Up2Date
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.frmAddCliente.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.frnArticulo.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Negocios.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Dato.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Negocios.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Dato.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.frm_Facturacion.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Azure.Core.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Azure.Identity.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Buffers.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.ClientModel.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Memory.Data.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Memory.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Text.Json.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.ValueTuple.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Azure.Core.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Azure.Identity.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Buffers.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.ClientModel.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Memory.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Memory.Data.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Text.Json.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.ValueTuple.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.frm_Reportearticulo.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.Factura.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Presentacionn.exe.config
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Presentacionn.exe
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Presentacionn.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Azure.Core.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Azure.Identity.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Negocios.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Buffers.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.ClientModel.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Memory.Data.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Memory.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Text.Json.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.ValueTuple.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Dato.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\EnvDTE.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\stdole.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Negocios.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Azure.Core.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Azure.Identity.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Buffers.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.ClientModel.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Memory.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Memory.Data.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Text.Json.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\System.ValueTuple.xml
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\Capa Dato.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.csproj.AssemblyReference.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.Factura.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.Form1.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.frmAddCliente.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.frm_Facturacion.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.frm_Reportearticulo.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.frnArticulo.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa_Presentacionn.Properties.Resources.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.csproj.GenerateResource.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.csproj.CoreCompileInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Pre.EE6791EA.Up2Date
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.exe
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\C-Sharp\Conexion DB\SistemaDeVentas\Capa Presentacionn\obj\Debug\Capa Presentacionn.pdb

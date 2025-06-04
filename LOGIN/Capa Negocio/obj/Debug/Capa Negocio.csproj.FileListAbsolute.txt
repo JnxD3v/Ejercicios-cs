@@ -1,0 +1,9 @@
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Negocio\bin\Debug\Capa Negocio.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Negocio\obj\Debug\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Negocio\obj\Debug\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Negocio\obj\Debug\Capa Negocio.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Negocio\obj\Debug\Capa Negocio.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Negocio\bin\Debug\Capa Datos.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Negocio\bin\Debug\Capa Datos.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Negocio\obj\Debug\Capa Neg.64FF6D98.Up2Date

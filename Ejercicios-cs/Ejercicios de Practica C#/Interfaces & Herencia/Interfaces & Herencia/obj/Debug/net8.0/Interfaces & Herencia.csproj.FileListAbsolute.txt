@@ -1,0 +1,14 @@
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\bin\Debug\net8.0\Interfaces & Herencia.exe
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\bin\Debug\net8.0\Interfaces & Herencia.deps.json
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\bin\Debug\net8.0\Interfaces & Herencia.runtimeconfig.json
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\bin\Debug\net8.0\Interfaces & Herencia.dll
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\bin\Debug\net8.0\Interfaces & Herencia.pdb
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\obj\Debug\net8.0\Interfaces & Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\obj\Debug\net8.0\Interfaces & Herencia.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\obj\Debug\net8.0\Interfaces & Herencia.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\obj\Debug\net8.0\Interfaces & Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\obj\Debug\net8.0\Interfaces & Herencia.dll
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\obj\Debug\net8.0\refint\Interfaces & Herencia.dll
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\obj\Debug\net8.0\Interfaces & Herencia.pdb
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\obj\Debug\net8.0\Interfaces & Herencia.genruntimeconfig.cache
+C:\Users\Micha\source\repos\Ejercicios de Practica C#\Interfaces & Herencia\Interfaces & Herencia\obj\Debug\net8.0\ref\Interfaces & Herencia.dll

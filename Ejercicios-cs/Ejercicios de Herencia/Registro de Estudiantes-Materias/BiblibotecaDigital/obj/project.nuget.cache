@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "yi26Oo1RUcU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Ejercicios de Herencia\\Registro de Estudiantes-Materias\\BiblibotecaDigital\\BiblibotecaDigital.csproj",
+=======
+  "dgSpecHash": "x7+NEh/y55g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Micha\\source\\repos\\Ejercicios de Herencia\\BiblibotecaDigital\\BiblibotecaDigital\\BiblibotecaDigital.csproj",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
+  "expectedPackageFiles": [],
+  "logs": []
+}

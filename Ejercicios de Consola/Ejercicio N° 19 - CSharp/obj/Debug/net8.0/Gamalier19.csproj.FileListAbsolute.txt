@@ -1,0 +1,28 @@
+C:\Users\Dell\source\repos\Gamalier19\bin\Debug\net8.0\Gamalier19.exe
+C:\Users\Dell\source\repos\Gamalier19\bin\Debug\net8.0\Gamalier19.deps.json
+C:\Users\Dell\source\repos\Gamalier19\bin\Debug\net8.0\Gamalier19.runtimeconfig.json
+C:\Users\Dell\source\repos\Gamalier19\bin\Debug\net8.0\Gamalier19.dll
+C:\Users\Dell\source\repos\Gamalier19\bin\Debug\net8.0\Gamalier19.pdb
+C:\Users\Dell\source\repos\Gamalier19\obj\Debug\net8.0\Gamalier19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Gamalier19\obj\Debug\net8.0\Gamalier19.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Gamalier19\obj\Debug\net8.0\Gamalier19.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Gamalier19\obj\Debug\net8.0\Gamalier19.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Gamalier19\obj\Debug\net8.0\Gamalier19.dll
+C:\Users\Dell\source\repos\Gamalier19\obj\Debug\net8.0\refint\Gamalier19.dll
+C:\Users\Dell\source\repos\Gamalier19\obj\Debug\net8.0\Gamalier19.pdb
+C:\Users\Dell\source\repos\Gamalier19\obj\Debug\net8.0\Gamalier19.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Gamalier19\obj\Debug\net8.0\ref\Gamalier19.dll
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\bin\Debug\net8.0\Gamalier19.exe
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\bin\Debug\net8.0\Gamalier19.deps.json
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\bin\Debug\net8.0\Gamalier19.runtimeconfig.json
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\bin\Debug\net8.0\Gamalier19.dll
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\bin\Debug\net8.0\Gamalier19.pdb
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\obj\Debug\net8.0\Gamalier19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\obj\Debug\net8.0\Gamalier19.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\obj\Debug\net8.0\Gamalier19.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\obj\Debug\net8.0\Gamalier19.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\obj\Debug\net8.0\Gamalier19.dll
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\obj\Debug\net8.0\refint\Gamalier19.dll
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\obj\Debug\net8.0\Gamalier19.pdb
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\obj\Debug\net8.0\Gamalier19.genruntimeconfig.cache
+C:\Users\Micha\source\repos\Ejercicios de Condicionales\Gamalier19\obj\Debug\net8.0\ref\Gamalier19.dll

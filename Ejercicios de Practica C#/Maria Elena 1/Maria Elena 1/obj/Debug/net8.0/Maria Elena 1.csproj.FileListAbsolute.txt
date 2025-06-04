@@ -1,0 +1,14 @@
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\bin\Debug\net8.0\Maria Elena 1.exe
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\bin\Debug\net8.0\Maria Elena 1.deps.json
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\bin\Debug\net8.0\Maria Elena 1.runtimeconfig.json
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\bin\Debug\net8.0\Maria Elena 1.dll
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\bin\Debug\net8.0\Maria Elena 1.pdb
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\obj\Debug\net8.0\Maria Elena 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\obj\Debug\net8.0\Maria Elena 1.AssemblyInfoInputs.cache
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\obj\Debug\net8.0\Maria Elena 1.AssemblyInfo.cs
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\obj\Debug\net8.0\Maria Elena 1.csproj.CoreCompileInputs.cache
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\obj\Debug\net8.0\Maria Elena 1.dll
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\obj\Debug\net8.0\refint\Maria Elena 1.dll
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\obj\Debug\net8.0\Maria Elena 1.pdb
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\obj\Debug\net8.0\Maria Elena 1.genruntimeconfig.cache
+C:\Users\Michi\source\repos\Maria Elena 1\Maria Elena 1\obj\Debug\net8.0\ref\Maria Elena 1.dll

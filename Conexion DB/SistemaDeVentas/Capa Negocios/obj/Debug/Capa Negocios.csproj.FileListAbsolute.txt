@@ -1,0 +1,9 @@
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Negocios\bin\Debug\Capa Negocios.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Negocios\bin\Debug\Capa Negocios.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Negocios\bin\Debug\Capa Dato.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Negocios\bin\Debug\Capa Dato.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Negocios\obj\Debug\Capa Negocios.csproj.AssemblyReference.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Negocios\obj\Debug\Capa Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Negocios\obj\Debug\Capa Neg.9EF1AAC2.Up2Date
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Negocios\obj\Debug\Capa Negocios.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\SistemaDeVentas\Capa Negocios\obj\Debug\Capa Negocios.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\bin\Debug\net8.0\Ejercicio Perlita.exe
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\bin\Debug\net8.0\Ejercicio Perlita.deps.json
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\bin\Debug\net8.0\Ejercicio Perlita.runtimeconfig.json
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\bin\Debug\net8.0\Ejercicio Perlita.dll
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\bin\Debug\net8.0\Ejercicio Perlita.pdb
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\obj\Debug\net8.0\Ejercicio Perlita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\obj\Debug\net8.0\Ejercicio Perlita.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\obj\Debug\net8.0\Ejercicio Perlita.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\obj\Debug\net8.0\Ejercicio Perlita.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\obj\Debug\net8.0\Ejercicio Perlita.dll
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\obj\Debug\net8.0\refint\Ejercicio Perlita.dll
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\obj\Debug\net8.0\Ejercicio Perlita.pdb
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\obj\Debug\net8.0\Ejercicio Perlita.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Ejercicios de Practica C#\Ejercicio Perlita\obj\Debug\net8.0\ref\Ejercicio Perlita.dll

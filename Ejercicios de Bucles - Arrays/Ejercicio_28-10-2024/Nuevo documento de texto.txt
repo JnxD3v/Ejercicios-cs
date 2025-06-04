@@ -1,0 +1,42 @@
+using System; // OwO
+
+namespace Arrary_de_Objeto
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Gestión de contactos");
+
+            Contactos[] contacto = new Contactos[3];
+
+            for (int i = 0; i < contacto.Length; i++)
+            {
+                contacto[i] = new Contactos();
+                Console.WriteLine(" Contacto " + (i+1));
+
+                Console.Write(" Nombre: ");
+                contacto[i].name = Console.ReadLine();
+
+                Console.Write(" Edad:   ");
+                contacto[i].age = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine();
+            }
+
+            for (int i = 0; i < contacto.Length; i++)
+            {
+                Console.WriteLine(" ~ Contacto "+ (i + 1));
+                Console.WriteLine(" ~ Nombre:  "+ contacto[i].name);
+                Console.WriteLine(" ~ Edad:    "+ contacto[i].age);
+                Console.WriteLine();
+            }
+        }       
+    }
+
+    class Contactos
+    {
+        public string name { get; set; }
+        public int age { get; set; }
+    }
+}

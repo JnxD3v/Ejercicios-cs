@@ -1,0 +1,14 @@
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\bin\Debug\net8.0\EjerJes1.exe
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\bin\Debug\net8.0\EjerJes1.deps.json
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\bin\Debug\net8.0\EjerJes1.runtimeconfig.json
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\bin\Debug\net8.0\EjerJes1.dll
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\bin\Debug\net8.0\EjerJes1.pdb
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\obj\Debug\net8.0\EjerJes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\obj\Debug\net8.0\EjerJes1.AssemblyInfoInputs.cache
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\obj\Debug\net8.0\EjerJes1.AssemblyInfo.cs
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\obj\Debug\net8.0\EjerJes1.csproj.CoreCompileInputs.cache
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\obj\Debug\net8.0\EjerJes1.dll
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\obj\Debug\net8.0\refint\EjerJes1.dll
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\obj\Debug\net8.0\EjerJes1.pdb
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\obj\Debug\net8.0\EjerJes1.genruntimeconfig.cache
+C:\Users\Michi\source\repos\EjerJes1\EjerJes1\obj\Debug\net8.0\ref\EjerJes1.dll

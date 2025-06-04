@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Arrary_de_Objeto\bin\Debug\net8.0\Arrary_de_Objeto.exe
+C:\Users\Dell\source\repos\Arrary_de_Objeto\bin\Debug\net8.0\Arrary_de_Objeto.deps.json
+C:\Users\Dell\source\repos\Arrary_de_Objeto\bin\Debug\net8.0\Arrary_de_Objeto.runtimeconfig.json
+C:\Users\Dell\source\repos\Arrary_de_Objeto\bin\Debug\net8.0\Arrary_de_Objeto.dll
+C:\Users\Dell\source\repos\Arrary_de_Objeto\bin\Debug\net8.0\Arrary_de_Objeto.pdb
+C:\Users\Dell\source\repos\Arrary_de_Objeto\obj\Debug\net8.0\Arrary_de_Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Arrary_de_Objeto\obj\Debug\net8.0\Arrary_de_Objeto.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Arrary_de_Objeto\obj\Debug\net8.0\Arrary_de_Objeto.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Arrary_de_Objeto\obj\Debug\net8.0\Arrary_de_Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Arrary_de_Objeto\obj\Debug\net8.0\Arrary_de_Objeto.dll
+C:\Users\Dell\source\repos\Arrary_de_Objeto\obj\Debug\net8.0\refint\Arrary_de_Objeto.dll
+C:\Users\Dell\source\repos\Arrary_de_Objeto\obj\Debug\net8.0\Arrary_de_Objeto.pdb
+C:\Users\Dell\source\repos\Arrary_de_Objeto\obj\Debug\net8.0\Arrary_de_Objeto.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Arrary_de_Objeto\obj\Debug\net8.0\ref\Arrary_de_Objeto.dll

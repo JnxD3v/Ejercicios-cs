@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Ejercicios de Herencia\\Registro de Estudiantes-Materias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{703DED26-140E-479E-9C5F-5F0039ABDC06}|BiblibotecaDigital\\BiblibotecaDigital.csproj|c:\\users\\jesus y alexandra\\desktop\\mis proyectos\\c-sharp\\ejercicios de herencia\\registro de estudiantes-materias\\biblibotecadigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Micha\\source\\repos\\Ejercicios de Herencia\\BiblibotecaDigital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{703DED26-140E-479E-9C5F-5F0039ABDC06}|BiblibotecaDigital\\BiblibotecaDigital.csproj|c:\\users\\micha\\source\\repos\\ejercicios de herencia\\biblibotecadigital\\biblibotecadigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
+      "RelativeMoniker": "D:0:0:{703DED26-140E-479E-9C5F-5F0039ABDC06}|BiblibotecaDigital\\BiblibotecaDigital.csproj|solutionrelative:biblibotecadigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Ejercicios de Herencia\\Registro de Estudiantes-Materias\\BiblibotecaDigital\\Program.cs",
+              "RelativeDocumentMoniker": "BiblibotecaDigital\\Program.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Ejercicios de Herencia\\Registro de Estudiantes-Materias\\BiblibotecaDigital\\Program.cs",
+              "RelativeToolTip": "BiblibotecaDigital\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwAsAAABIAAAAAAAAAA==",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\\source\\repos\\Ejercicios de Herencia\\BiblibotecaDigital\\BiblibotecaDigital\\Program.cs",
+              "RelativeDocumentMoniker": "BiblibotecaDigital\\Program.cs",
+              "ToolTip": "C:\\Users\\Micha\\source\\repos\\Ejercicios de Herencia\\BiblibotecaDigital\\BiblibotecaDigital\\Program.cs",
+              "RelativeToolTip": "BiblibotecaDigital\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAA7wAsAAABIAAAAAAAAAA==",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:24:31.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

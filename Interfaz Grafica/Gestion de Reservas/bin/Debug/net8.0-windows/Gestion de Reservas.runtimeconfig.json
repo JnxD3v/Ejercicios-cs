@@ -1,0 +1,23 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "8.0.0"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "8.0.0"
+      }
+    ],
+    "configProperties": {
+<<<<<<< HEAD
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
+      "CSWINRT_USE_WINDOWS_UI_XAML_PROJECTIONS": false
+=======
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
+    }
+  }
+}

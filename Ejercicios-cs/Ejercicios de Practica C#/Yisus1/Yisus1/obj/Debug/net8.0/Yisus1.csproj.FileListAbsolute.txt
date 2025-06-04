@@ -1,0 +1,14 @@
+C:\Users\Michi\source\repos\Yisus1\Yisus1\bin\Debug\net8.0\Yisus1.exe
+C:\Users\Michi\source\repos\Yisus1\Yisus1\bin\Debug\net8.0\Yisus1.deps.json
+C:\Users\Michi\source\repos\Yisus1\Yisus1\bin\Debug\net8.0\Yisus1.runtimeconfig.json
+C:\Users\Michi\source\repos\Yisus1\Yisus1\bin\Debug\net8.0\Yisus1.dll
+C:\Users\Michi\source\repos\Yisus1\Yisus1\bin\Debug\net8.0\Yisus1.pdb
+C:\Users\Michi\source\repos\Yisus1\Yisus1\obj\Debug\net8.0\Yisus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michi\source\repos\Yisus1\Yisus1\obj\Debug\net8.0\Yisus1.AssemblyInfoInputs.cache
+C:\Users\Michi\source\repos\Yisus1\Yisus1\obj\Debug\net8.0\Yisus1.AssemblyInfo.cs
+C:\Users\Michi\source\repos\Yisus1\Yisus1\obj\Debug\net8.0\Yisus1.csproj.CoreCompileInputs.cache
+C:\Users\Michi\source\repos\Yisus1\Yisus1\obj\Debug\net8.0\Yisus1.dll
+C:\Users\Michi\source\repos\Yisus1\Yisus1\obj\Debug\net8.0\refint\Yisus1.dll
+C:\Users\Michi\source\repos\Yisus1\Yisus1\obj\Debug\net8.0\Yisus1.pdb
+C:\Users\Michi\source\repos\Yisus1\Yisus1\obj\Debug\net8.0\Yisus1.genruntimeconfig.cache
+C:\Users\Michi\source\repos\Yisus1\Yisus1\obj\Debug\net8.0\ref\Yisus1.dll

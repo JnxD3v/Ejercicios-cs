@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Herendame Esta\obj\Debug\net8.0\Herendame Esta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Herendame Esta\obj\Debug\net8.0\Herendame Esta.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Herendame Esta\obj\Debug\net8.0\Herendame Esta.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Herendame Esta\obj\Debug\net8.0\Herendame Esta.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Herendame Esta\bin\Debug\net8.0\Herendame Esta.exe
+C:\Users\Dell\source\repos\Herendame Esta\bin\Debug\net8.0\Herendame Esta.deps.json
+C:\Users\Dell\source\repos\Herendame Esta\bin\Debug\net8.0\Herendame Esta.runtimeconfig.json
+C:\Users\Dell\source\repos\Herendame Esta\bin\Debug\net8.0\Herendame Esta.dll
+C:\Users\Dell\source\repos\Herendame Esta\bin\Debug\net8.0\Herendame Esta.pdb
+C:\Users\Dell\source\repos\Herendame Esta\obj\Debug\net8.0\Herendame Esta.dll
+C:\Users\Dell\source\repos\Herendame Esta\obj\Debug\net8.0\refint\Herendame Esta.dll
+C:\Users\Dell\source\repos\Herendame Esta\obj\Debug\net8.0\Herendame Esta.pdb
+C:\Users\Dell\source\repos\Herendame Esta\obj\Debug\net8.0\Herendame Esta.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Herendame Esta\obj\Debug\net8.0\ref\Herendame Esta.dll

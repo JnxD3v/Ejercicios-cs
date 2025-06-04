@@ -1,0 +1,23 @@
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\bin\Debug\Capa Presentacion.exe.config
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\bin\Debug\Capa Presentacion.exe
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\bin\Debug\Capa Presentacion.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa Pre.6EE772B1.Up2Date
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa Presentacion.exe
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa Presentacion.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa_Presentacion.Register.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa_Presentacion.login.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\bin\Debug\Capa Negocio.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\bin\Debug\Capa Datos.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\bin\Debug\Capa Negocio.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\bin\Debug\Capa Datos.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa_Presentacion.Main.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa_Presentacion.Pets.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa_Presentacion.customers.resources
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\LOGIN\Capa Presentacion\obj\Debug\Capa_Presentacion.Principal.resources

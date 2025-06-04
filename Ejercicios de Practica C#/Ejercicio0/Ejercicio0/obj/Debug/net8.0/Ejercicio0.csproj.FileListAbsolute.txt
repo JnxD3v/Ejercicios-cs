@@ -1,0 +1,14 @@
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\bin\Debug\net8.0\Ejercicio0.exe
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\bin\Debug\net8.0\Ejercicio0.deps.json
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\bin\Debug\net8.0\Ejercicio0.runtimeconfig.json
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\bin\Debug\net8.0\Ejercicio0.dll
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\bin\Debug\net8.0\Ejercicio0.pdb
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\obj\Debug\net8.0\Ejercicio0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\obj\Debug\net8.0\Ejercicio0.AssemblyInfoInputs.cache
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\obj\Debug\net8.0\Ejercicio0.AssemblyInfo.cs
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\obj\Debug\net8.0\Ejercicio0.csproj.CoreCompileInputs.cache
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\obj\Debug\net8.0\Ejercicio0.dll
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\obj\Debug\net8.0\refint\Ejercicio0.dll
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\obj\Debug\net8.0\Ejercicio0.pdb
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\obj\Debug\net8.0\Ejercicio0.genruntimeconfig.cache
+C:\Users\Michi\source\repos\Ejercicio0\Ejercicio0\obj\Debug\net8.0\ref\Ejercicio0.dll

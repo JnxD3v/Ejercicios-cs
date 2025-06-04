@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\jesus y alexandra\\desktop\\mis proyectos\\ejercicios escuela\\practicasql3\\capanegocio\\n_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capanegocio\\n_medidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_medidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capanegocio\\n_guardar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_guardar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capadatos\\d_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capadatos\\d_medidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_medidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capadatos\\d_guardar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_guardar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capanegocio\\n_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capapresentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capadatos\\d_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capadatos\\d_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B99190-E5E7-4C57-AA6E-A6DB547FDE3D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T01:41:53.335Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaPresentacion\\Form1.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA0wA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T01:42:29.544Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "D_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Productos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Productos.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Productos.cs",
+              "RelativeToolTip": "CapaDatos\\D_Productos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:48:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D_Medidas.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Medidas.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Medidas.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Medidas.cs",
+              "RelativeToolTip": "CapaDatos\\D_Medidas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:29:08.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "N_Guardar.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaNegocio\\N_Guardar.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Guardar.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaNegocio\\N_Guardar.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Guardar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:37:41.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "N_Medidas.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaNegocio\\N_Medidas.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Medidas.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaNegocio\\N_Medidas.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Medidas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:37:43.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "N_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaNegocio\\N_Productos.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Productos.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaNegocio\\N_Productos.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Productos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:53:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "D_Guardar.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Guardar.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Guardar.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Guardar.cs",
+              "RelativeToolTip": "CapaDatos\\D_Guardar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:48:16.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "N_Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaNegocio\\N_Categorias.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\N_Categorias.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaNegocio\\N_Categorias.cs",
+              "RelativeToolTip": "CapaNegocio\\N_Categorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:37:38.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:37:48.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaPresentacion\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaPresentacion\\Form1.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:24:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "D_Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Conexion.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\D_Conexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:04:34.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "D_Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Categorias.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Categorias.cs",
+              "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaDatos\\D_Categorias.cs",
+              "RelativeToolTip": "CapaDatos\\D_Categorias.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:37:55.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

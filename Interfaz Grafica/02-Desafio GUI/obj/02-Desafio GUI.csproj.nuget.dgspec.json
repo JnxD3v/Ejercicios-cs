@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\02-Desafio GUI\\02-Desafio GUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\02-Desafio GUI\\02-Desafio GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\02-Desafio GUI\\02-Desafio GUI.csproj",
+        "projectName": "02-Desafio GUI",
+        "projectPath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\02-Desafio GUI\\02-Desafio GUI.csproj",
+        "packagesPath": "C:\\Users\\Jesus y Alexandra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\C-Sharp\\Interfaz Grafica\\02-Desafio GUI\\obj\\",
+=======
+    "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\02-Desafio GUI\\02-Desafio GUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\02-Desafio GUI\\02-Desafio GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\02-Desafio GUI\\02-Desafio GUI.csproj",
+        "projectName": "02-Desafio GUI",
+        "projectPath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\02-Desafio GUI\\02-Desafio GUI.csproj",
+        "packagesPath": "C:\\Users\\JUNIOR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Interfaz Grafica\\02-Desafio GUI\\obj\\",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+<<<<<<< HEAD
+          "C:\\Users\\Jesus y Alexandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\JUNIOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+<<<<<<< HEAD
+        },
+        "SdkAnalysisLevel": "9.0.100"
+=======
+        }
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 96a49b7f1af0b142d5271c3f49f1912379f97e7c
+        }
+      }
+    }
+  }
+}

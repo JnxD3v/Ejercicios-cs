@@ -1,0 +1,6 @@
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Datos\obj\Debug\Capa Datos.pdb

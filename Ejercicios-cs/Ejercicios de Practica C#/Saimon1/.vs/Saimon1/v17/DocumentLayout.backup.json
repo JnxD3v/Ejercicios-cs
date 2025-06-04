@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michi\\source\\repos\\Saimon1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB850BD3-B5EC-4A0C-8A48-D7C0B7741E16}|Saimon1\\Saimon1.csproj|c:\\users\\michi\\source\\repos\\saimon1\\saimon1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB850BD3-B5EC-4A0C-8A48-D7C0B7741E16}|Saimon1\\Saimon1.csproj|solutionrelative:saimon1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Michi\\source\\repos\\Saimon1\\Saimon1\\Program.cs",
+              "RelativeDocumentMoniker": "Saimon1\\Program.cs",
+              "ToolTip": "C:\\Users\\Michi\\source\\repos\\Saimon1\\Saimon1\\Program.cs",
+              "RelativeToolTip": "Saimon1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:31:00.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

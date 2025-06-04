@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Entrando-En-Materia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCD8C26-9426-468F-A470-5709DA779E1F}|Entrando-En-Materia\\Entrando-En-Materia.csproj|c:\\users\\dell\\source\\repos\\entrando-en-materia\\entrando-en-materia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD8C26-9426-468F-A470-5709DA779E1F}|Entrando-En-Materia\\Entrando-En-Materia.csproj|solutionrelative:entrando-en-materia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Entrando-En-Materia\\Entrando-En-Materia\\Program.cs",
+              "RelativeDocumentMoniker": "Entrando-En-Materia\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Entrando-En-Materia\\Entrando-En-Materia\\Program.cs",
+              "RelativeToolTip": "Entrando-En-Materia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:27:18.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

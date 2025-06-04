@@ -1,0 +1,14 @@
+C:\Users\Michi\source\repos\Azar1\Azar1\bin\Debug\net8.0\Azar1.exe
+C:\Users\Michi\source\repos\Azar1\Azar1\bin\Debug\net8.0\Azar1.deps.json
+C:\Users\Michi\source\repos\Azar1\Azar1\bin\Debug\net8.0\Azar1.runtimeconfig.json
+C:\Users\Michi\source\repos\Azar1\Azar1\bin\Debug\net8.0\Azar1.dll
+C:\Users\Michi\source\repos\Azar1\Azar1\bin\Debug\net8.0\Azar1.pdb
+C:\Users\Michi\source\repos\Azar1\Azar1\obj\Debug\net8.0\Azar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michi\source\repos\Azar1\Azar1\obj\Debug\net8.0\Azar1.AssemblyInfoInputs.cache
+C:\Users\Michi\source\repos\Azar1\Azar1\obj\Debug\net8.0\Azar1.AssemblyInfo.cs
+C:\Users\Michi\source\repos\Azar1\Azar1\obj\Debug\net8.0\Azar1.csproj.CoreCompileInputs.cache
+C:\Users\Michi\source\repos\Azar1\Azar1\obj\Debug\net8.0\Azar1.dll
+C:\Users\Michi\source\repos\Azar1\Azar1\obj\Debug\net8.0\refint\Azar1.dll
+C:\Users\Michi\source\repos\Azar1\Azar1\obj\Debug\net8.0\Azar1.pdb
+C:\Users\Michi\source\repos\Azar1\Azar1\obj\Debug\net8.0\Azar1.genruntimeconfig.cache
+C:\Users\Michi\source\repos\Azar1\Azar1\obj\Debug\net8.0\ref\Azar1.dll
