@@ -46,8 +46,6 @@ namespace CapaPresentacion
             this.button1 = new System.Windows.Forms.Button();
             this.btn_Cancelar = new System.Windows.Forms.Button();
             this.btn_Guardar = new System.Windows.Forms.Button();
-            this.txtBuscar = new System.Windows.Forms.TextBox();
-            this.btn_Buscar = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -64,7 +62,7 @@ namespace CapaPresentacion
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label2.Location = new System.Drawing.Point(27, 104);
+            this.label2.Location = new System.Drawing.Point(42, 267);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(56, 15);
             this.label2.TabIndex = 0;
@@ -75,7 +73,7 @@ namespace CapaPresentacion
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label4.Location = new System.Drawing.Point(27, 144);
+            this.label4.Location = new System.Drawing.Point(42, 307);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(73, 15);
             this.label4.TabIndex = 0;
@@ -86,7 +84,7 @@ namespace CapaPresentacion
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label5.Location = new System.Drawing.Point(303, 104);
+            this.label5.Location = new System.Drawing.Point(318, 267);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(39, 15);
             this.label5.TabIndex = 0;
@@ -97,7 +95,7 @@ namespace CapaPresentacion
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label6.Location = new System.Drawing.Point(303, 144);
+            this.label6.Location = new System.Drawing.Point(318, 307);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(59, 15);
             this.label6.TabIndex = 0;
@@ -108,7 +106,7 @@ namespace CapaPresentacion
             this.cmbCategoria.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbCategoria.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbCategoria.FormattingEnabled = true;
-            this.cmbCategoria.Location = new System.Drawing.Point(379, 141);
+            this.cmbCategoria.Location = new System.Drawing.Point(394, 304);
             this.cmbCategoria.Name = "cmbCategoria";
             this.cmbCategoria.Size = new System.Drawing.Size(144, 23);
             this.cmbCategoria.TabIndex = 1;
@@ -116,7 +114,7 @@ namespace CapaPresentacion
             // txtProducto
             // 
             this.txtProducto.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtProducto.Location = new System.Drawing.Point(113, 99);
+            this.txtProducto.Location = new System.Drawing.Point(128, 262);
             this.txtProducto.Name = "txtProducto";
             this.txtProducto.Size = new System.Drawing.Size(145, 22);
             this.txtProducto.TabIndex = 2;
@@ -124,7 +122,7 @@ namespace CapaPresentacion
             // txtStock
             // 
             this.txtStock.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtStock.Location = new System.Drawing.Point(113, 142);
+            this.txtStock.Location = new System.Drawing.Point(128, 305);
             this.txtStock.Name = "txtStock";
             this.txtStock.Size = new System.Drawing.Size(145, 22);
             this.txtStock.TabIndex = 2;
@@ -132,14 +130,14 @@ namespace CapaPresentacion
             // txtPrecio
             // 
             this.txtPrecio.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPrecio.Location = new System.Drawing.Point(379, 101);
+            this.txtPrecio.Location = new System.Drawing.Point(394, 264);
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(144, 22);
             this.txtPrecio.TabIndex = 2;
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.DarkViolet;
+            this.panel2.BackColor = System.Drawing.Color.Blue;
             this.panel2.Controls.Add(this.button5);
             this.panel2.Controls.Add(this.button4);
             this.panel2.Controls.Add(this.btnEliminar);
@@ -222,7 +220,7 @@ namespace CapaPresentacion
             // 
             // btn_Cancelar
             // 
-            this.btn_Cancelar.BackColor = System.Drawing.Color.Crimson;
+            this.btn_Cancelar.BackColor = System.Drawing.Color.PaleVioletRed;
             this.btn_Cancelar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Cancelar.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Cancelar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
@@ -236,7 +234,7 @@ namespace CapaPresentacion
             // 
             // btn_Guardar
             // 
-            this.btn_Guardar.BackColor = System.Drawing.Color.SpringGreen;
+            this.btn_Guardar.BackColor = System.Drawing.Color.GreenYellow;
             this.btn_Guardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Guardar.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Guardar.ForeColor = System.Drawing.Color.Black;
@@ -248,32 +246,10 @@ namespace CapaPresentacion
             this.btn_Guardar.UseVisualStyleBackColor = false;
             this.btn_Guardar.Click += new System.EventHandler(this.btn_Guardar_Click);
             // 
-            // txtBuscar
-            // 
-            this.txtBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.txtBuscar.Location = new System.Drawing.Point(32, 410);
-            this.txtBuscar.Name = "txtBuscar";
-            this.txtBuscar.Size = new System.Drawing.Size(145, 23);
-            this.txtBuscar.TabIndex = 2;
-            this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
-            // 
-            // btn_Buscar
-            // 
-            this.btn_Buscar.BackColor = System.Drawing.Color.DarkTurquoise;
-            this.btn_Buscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_Buscar.Font = new System.Drawing.Font("Gill Sans MT", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Buscar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btn_Buscar.Location = new System.Drawing.Point(32, 439);
-            this.btn_Buscar.Name = "btn_Buscar";
-            this.btn_Buscar.Size = new System.Drawing.Size(145, 27);
-            this.btn_Buscar.TabIndex = 0;
-            this.btn_Buscar.Text = "Buscar producto..";
-            this.btn_Buscar.UseVisualStyleBackColor = false;
-            // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(32, 236);
+            this.dataGridView1.Location = new System.Drawing.Point(32, 99);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(521, 150);
             this.dataGridView1.TabIndex = 3;
@@ -303,7 +279,7 @@ namespace CapaPresentacion
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.RoyalBlue;
+            this.panel1.BackColor = System.Drawing.Color.DodgerBlue;
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(1, 2);
@@ -317,7 +293,7 @@ namespace CapaPresentacion
             this.cmbMedida.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbMedida.Font = new System.Drawing.Font("Berlin Sans FB", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbMedida.FormattingEnabled = true;
-            this.cmbMedida.Location = new System.Drawing.Point(23, 185);
+            this.cmbMedida.Location = new System.Drawing.Point(394, 344);
             this.cmbMedida.Name = "cmbMedida";
             this.cmbMedida.Size = new System.Drawing.Size(144, 23);
             this.cmbMedida.TabIndex = 4;
@@ -330,10 +306,8 @@ namespace CapaPresentacion
             this.Controls.Add(this.cmbMedida);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtPrecio);
-            this.Controls.Add(this.btn_Buscar);
             this.Controls.Add(this.btn_Guardar);
             this.Controls.Add(this.btn_Cancelar);
-            this.Controls.Add(this.txtBuscar);
             this.Controls.Add(this.txtStock);
             this.Controls.Add(this.txtProducto);
             this.Controls.Add(this.cmbCategoria);
@@ -376,8 +350,6 @@ namespace CapaPresentacion
         private System.Windows.Forms.Button btnActu;
         private System.Windows.Forms.Button btn_Cancelar;
         private System.Windows.Forms.Button btn_Guardar;
-        private System.Windows.Forms.TextBox txtBuscar;
-        private System.Windows.Forms.Button btn_Buscar;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;

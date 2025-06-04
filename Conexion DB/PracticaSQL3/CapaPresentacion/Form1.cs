@@ -15,7 +15,7 @@ namespace CapaPresentacion
     public partial class CapaPresentacion : Form
     {
 
-        private string connectionString = "Server=CRAROX;Database=Ventas;Integrated Security=true";
+        private string connectionString = "Server=PC;Database=Ventas;Integrated Security=true";
         N_Productos objetoCN = new N_Productos();
         private N_Medidas objetoCNM = new N_Medidas();
         private N_Categorias objetoCNC = new N_Categorias();

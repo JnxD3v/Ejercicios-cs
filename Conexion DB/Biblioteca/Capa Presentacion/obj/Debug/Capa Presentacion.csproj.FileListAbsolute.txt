@@ -158,3 +158,163 @@ C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Presentacion\ob
 C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.frm_ReporteLbro.resources
 C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.frm_reportePrestamocs.resources
 C:\Users\Jesus y Alexandra\Desktop\Mis Proyectos\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.formularioReporteCliente.resources
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Capa Presentacion.exe.config
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Capa Presentacion.exe
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Capa Presentacion.pdb
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Azure.Core.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Azure.Identity.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Capa Negocio.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.ClientModel.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Memory.Data.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Text.Json.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Capa Datos.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Capa Negocio.pdb
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Azure.Core.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Azure.Identity.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.ClientModel.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Memory.Data.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Text.Json.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\Capa Datos.pdb
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa Presentacion.exe.config
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.formularioReporteCliente.resources
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.frm_Cliente.resources
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.frm_Libros.resources
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.frm_Prestamo.resources
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.frm_ReporteLbro.resources
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.frm_reportePrestamocs.resources
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa Pre.6EE772B1.Up2Date
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa Presentacion.exe
+C:\Users\PC\Desktop\C#\Conexion DB\Biblioteca\Capa Presentacion\obj\Debug\Capa Presentacion.pdb

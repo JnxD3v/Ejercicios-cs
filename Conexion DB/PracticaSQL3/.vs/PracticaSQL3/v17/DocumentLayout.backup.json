@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\jesus y alexandra\\desktop\\mis proyectos\\ejercicios escuela\\practicasql3\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{928DC2DD-D1BC-42A0-9A22-566A38057E62}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\jesus y alexandra\\desktop\\mis proyectos\\ejercicios escuela\\practicasql3\\capanegocio\\n_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\capanegocio\\n_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51952BAD-4B96-40BE-8220-6BFBBBB23C62}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\n_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -85,7 +85,7 @@
               "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
               "ToolTip": "C:\\Users\\Jesus y Alexandra\\Desktop\\Mis Proyectos\\Ejercicios escuela\\PracticaSQL3\\CapaPresentacion\\Form1.cs",
               "RelativeToolTip": "CapaPresentacion\\Form1.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAA0wA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T01:42:29.544Z",
               "IsPinned": true,
@@ -157,8 +157,7 @@
               "RelativeToolTip": "CapaNegocio\\N_Productos.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T11:53:02.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T11:53:02.757Z"
             },
             {
               "$type": "Document",
@@ -206,8 +205,7 @@
               "RelativeToolTip": "CapaPresentacion\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:24:31.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T01:24:31.142Z"
             },
             {
               "$type": "Document",
